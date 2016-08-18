@@ -1,0 +1,7 @@
+tcm fieldmapping /export /collection:http://v-jxii073429vm:8080/tfs/DefaultCollection /teamproject:TFVC_Scrum /type:failuretype /mappingfile:C:\mapfile2.xml [/login:fareast\v-jxiie,eBao1234$]
+
+
+tcm fieldmapping /import /collection:http://v-jxii073429vm:8080/tfs/DefaultCollection /teamproject:TFVC_Scrum /type:failuretype /mappingfile:C:\mapfile2.xml [/login:fareast\v-jxiie,eBao1234$]
+
+
+tcm fieldmapping /export /collection:http://v-jxii073429vm:8080/tfs/DefaultCollection /teamproject:TFVC_Scrum /type:bug /mappingfile:C:\mapfile2.xml [/login:fareast\v-jxiie,eBao1234$]
